@@ -1,0 +1,52 @@
+
+.header {
+    background: #232f3e;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 20px;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.mylike-btn {
+    text-decoration: none;
+    color: blue;
+}
+
+.logout-btn {
+    background: #ffa41c;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.profile-btn {
+    background: orange;
+    color: #000;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.sell-btn {
+    background: orange;
+    color: #000;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 10px;
+}
